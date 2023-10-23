@@ -1,4 +1,4 @@
-# Edge Computing - Checkpoint 4
+# Edge Computing - Checkpoint 5
 
 # Introdução
 Como andamento ao projeto do [Checkpoint 2](https://github.com/Projetos-Fiap/Edge-Computing-CP02), de monitorador de luminosidade, temperatura e umidade, agora nesta continuação do projeto temos a implementação de um módulo Wi-Fi no circuito, que irá fazer o envio dos dados coletados para internet.
